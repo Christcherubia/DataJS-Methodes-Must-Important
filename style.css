@@ -1,0 +1,17 @@
+body {
+    background: rgba(255, 197, 150, 0.938);
+    margin: 50px;
+    padding: 15px;
+    box-shadow: 1px 2px 3px black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.user-card{
+    border: 2px solid rgb(75, 75, 75);
+    padding: 25px;
+}
+
+p {
+    color: rgba(31, 31, 31, 0.938);
+    font-weight: 700;
+}
